@@ -1,0 +1,4 @@
+# Nome         X(AU)    Y(AU)    Raio(km)     Cor(R,G,B)     Massa(kg)             Velocidade Orbital Inicial (km/s)    OrbitaEmTornoDe
+Sol            0        0        696340       255,204,0      1.98847e30             0                                    Nenhum
+Terra          1.0      0        6371         100,149,237    5.9722e24              29.78                                Sol
+Lua            0.00257  0        1737.1       200,200,200    7.342e22               1.022                                Terra
