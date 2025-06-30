@@ -159,7 +159,7 @@ def carregar_planetas(caminho_arquivo):
 def main():
     run = True
     clock = pygame.time.Clock()
-    planets = carregar_planetas("Trabalho/planetas_certo.txt")
+    planets = carregar_planetas("planetas.txt")
     
     scale = Planet.SCALE
     offset_x, offset_y = WIDTH // 2, HEIGHT // 2
